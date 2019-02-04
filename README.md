@@ -22,5 +22,5 @@ node index.js
 ## Project status
 
 ```python
-Almost finish the bonus but it only contains correct guess not incorrect guess
+For the bonus part, the potentially correct codewords given the correct guess letter but incorrect guess letter made so far
 ```
