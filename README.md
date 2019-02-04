@@ -3,6 +3,7 @@
 Invaders from outer space have arrived and are abducting humans using tractor beams. Earn your medal of honor by cracking the codeword to stop the abduction!
 
 ## Usage
+Install [Node.js](https://nodejs.org/en/) to set up the environment.
 If you directly download or clone the file from github then you can just execute the file with the command as follows:
 
 ```python
