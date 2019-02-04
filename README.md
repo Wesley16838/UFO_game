@@ -15,6 +15,7 @@ npm i file-system
 
 ```python
 npm start
+or
 node index.js
 
 ```
